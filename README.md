@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning about machine learning!
 - 🌱 I’m currently learning to code in python, and navigate a linux CLI. Ultimately to improve interfacing with more data.
 - 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me: holla at ya boi
+- 📫 How to reach me: SHOUT INTO THE VOID
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I speak french and a little spanish!
 
